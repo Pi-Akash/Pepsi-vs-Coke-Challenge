@@ -1,0 +1,7 @@
+Participant_Name,Round,Drink_Identified,Drink_Original,Confidence,Result
+AAA,Round 1,Pepsi,Pepsi,100.0,True
+AAA,Round 2,Diet Coke,Dr. Pepper,60.0,False
+AAA,Round 3,Diet Coke,Coke,100.0,False
+ABC,Round 1,Coke,Coke,100.0,True
+ABC,Round 2,Diet Coke,Dr. Pepper,50.0,False
+ABC,Round 3,Coke,Dr. Pepper,0.0,False
